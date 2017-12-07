@@ -16,7 +16,7 @@ Task: Make a game for the browser. Description of the game:
 		2) Second screen - game screen where the letters will be displayed.
 */
 
-function nlpGameAlphabet() {
+function startGame() {
 
 	document.getElementById('gameMainTable').style.visibility="hidden";
 	document.getElementById('buttonStopGame').style.visibility="visible";
